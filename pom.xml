@@ -14,9 +14,6 @@
 	<name>thymeleaf-app</name>
 	<description>Thymeleaf Application</description>
 
-	<properties>
-		<java.version>11</java.version>
-	</properties>
 
 	<dependencies>
 		<dependency>
